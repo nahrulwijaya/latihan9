@@ -344,7 +344,7 @@ while True:
 
 ```
 ### Hasil dari source code diatas : <br>
-![hasil1](gambar/2.png)
+![hasil1](gambar/1.png)
 
 
 ### SEKIAN TERIMAKASIH <br>
