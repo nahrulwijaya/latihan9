@@ -1,6 +1,6 @@
 ## tugas ini untuk melengkapi pertemuan ke 9
 
-![logo](foto/upb.png)
+![logo](gambar/upb.png)
 
 **Nama : NAHRUL WIJAYA** <br>
 **kelas: TI.20.A.1** <br>
@@ -17,7 +17,7 @@
 ## Program Data Mahasiswa
 ### Pertemuan 9 - Pratikum Modul 4
 pada praktikum 4 ini, saya akan membuat program sederhana untuk menginput data kedalam list. Berikut soal dari dosen: <br>
-![lab4](foto/hasi1.jpg)
+![lab4](gambar/soal1.jpg)
 
 ### Berikut Inputannya : 
 ```python
@@ -93,14 +93,14 @@ print("==================================================================")
 ```
 
 #### Berikut Outputnya:
-![hasil2](foto/2.png)
+![hasil2](gambar/latihan1.png)
 
 
 
 ### Pertemuan 9 Modul 5
 
 Pada Pertemuan 9 Modul 5 dosen memberikan saya tugas untuk membuat program sederhana yang akan menampilkan daftar nilai mahasiswa. berikut soal yang dosen berikan:
-![hasill2](foto/hasill2.png)
+![hasill2](gambar/soal2.png)
 
 #### Penjelasan:
 * Penggunaan if c.lower() 
@@ -151,7 +151,7 @@ akhir = round((float(tugas) * 0.3)+(float(uts) * 0.35)+(float(uas) * 0.35),2)
 ```
 * Penggunaan Database.txt
 Berguna untuk menyimpan data dari inputan. <br>
-![capturesss](foto/text.png)
+
 
 ### Berikut Source code lengkapnya...
 ```python
@@ -344,7 +344,7 @@ while True:
 
 ```
 ### Hasil dari source code diatas : <br>
-![hasil1](foto/3.png)
+![hasil1](gambar/latihan2.png)
 
 
 ### SEKIAN TERIMAKASIH <br>
