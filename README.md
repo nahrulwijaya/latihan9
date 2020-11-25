@@ -10,8 +10,8 @@
 ## Daftar Isi
 | No | ISI | Link | Source Code |
 | -- | --- | ---- | ----------- |
-| 1. | Modul 4 | [lihat](https://github.com/PUTERIALIFIA/projek_pertemuan9/blob/main/README.md) | [Code](https://github.com/PUTERIALIFIA/projek_pertemuan9/blob/main/modul4.py) |
-| 2. | Modul 5 | [lihat](https://github.com/PUTERIALIFIA/projek_pertemuan9/blob/main/README.md) | [Code](https://github.com/PUTERIALIFIA/projek_pertemuan9/blob/main/modul%205.py) |
+| 1. | Modul 4 | [https://github.com/nahrulwijaya/latihan9/blob/main/README.md) | [Code](https://github.com/nahrulwijaya/latihan9/blob/main/latihan1.py) |
+| 2. | Modul 5 | [https://github.com/nahrulwijaya/latihan9/blob/main/README.md) | [Code](https://github.com/nahrulwijaya/latihan9/blob/main/latihan2.py) |
 
 
 ## Program Data Mahasiswa
@@ -93,7 +93,7 @@ print("==================================================================")
 ```
 
 #### Berikut Outputnya:
-![hasil2](gambar/latihan1.png)
+![hasil2](gambar/1.png)
 
 
 
@@ -344,7 +344,7 @@ while True:
 
 ```
 ### Hasil dari source code diatas : <br>
-![hasil1](gambar/latihan2.png)
+![hasil1](gambar/2.png)
 
 
 ### SEKIAN TERIMAKASIH <br>
