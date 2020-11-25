@@ -17,7 +17,7 @@
 ## Program Data Mahasiswa
 ### Pertemuan 9 - Pratikum Modul 4
 pada praktikum 4 ini, saya akan membuat program sederhana untuk menginput data kedalam list. Berikut soal dari dosen: <br>
-![lab4](gambar/soal1.npg)
+![lab4](gambar/soal1.jpg)
 
 ### Berikut Inputannya : 
 ```python
@@ -93,7 +93,7 @@ print("==================================================================")
 ```
 
 #### Berikut Outputnya:
-![hasil2](gambar/gambar5.png)
+![hasil2](gambar/2.png)
 
 
 
@@ -344,7 +344,7 @@ while True:
 
 ```
 ### Hasil dari source code diatas : <br>
-![hasil1](gambar/gambar2.png)
+![hasil1](gambar/2.png)
 
 
 ### SEKIAN TERIMAKASIH <br>
